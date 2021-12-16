@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/educativo/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Vipabi"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"},"frontmatter":{"title":"El juego educativo"}}}]}},"pageContext":{"tag":"educativo"}},
+    "staticQueryHashes": ["4080856488"]}

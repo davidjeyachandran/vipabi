@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
+    "result": {"data":{"markdownRemark":{"id":"8d2b2df3-a7b3-5057-b653-76067d3c6ab4","html":"<p><img src=\"/img/vipabi.jpeg\" alt=\"vipabi\"></p>\n<p>breve descripción de este juego.</p>\n<h2>Maś información</h2>\n<p>Más información sobre el juego y sus reglas.</p>\n<ol>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n</ol>","frontmatter":{"date":"January 04, 2017","title":"El juego educativo","description":"juego educativo","tags":["juego","educativo","biblia"]}}},"pageContext":{"id":"8d2b2df3-a7b3-5057-b653-76067d3c6ab4"}},
+    "staticQueryHashes": ["4080856488"]}

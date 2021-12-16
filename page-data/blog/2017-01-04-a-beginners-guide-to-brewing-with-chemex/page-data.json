@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
+    "result": {"data":{"markdownRemark":{"id":"f7732949-47f7-50cc-84c6-dda60f0c3c49","html":"<p><img src=\"/img/vipabi.jpeg\" alt=\"vipabi\"></p>\n<p>breve descripción de este juego.</p>\n<h2>Maś información</h2>\n<p>Más información sobre el juego y sus reglas.</p>\n<ol>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n</ol>","frontmatter":{"date":"January 04, 2017","title":"Nuevo y revolucionario juego","description":"juego revolucionario","tags":["juego","nuevo"]}}},"pageContext":{"id":"f7732949-47f7-50cc-84c6-dda60f0c3c49"}},
+    "staticQueryHashes": ["4080856488"]}

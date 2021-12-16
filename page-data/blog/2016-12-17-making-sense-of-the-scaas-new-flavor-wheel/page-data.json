@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
+    "result": {"data":{"markdownRemark":{"id":"1ebe4693-04d7-5082-9a5c-0b19e6152556","html":"<p><img src=\"/img/vipabi.jpeg\" alt=\"vipabi\"></p>\n<p>breve descripción de este juego.</p>\n<h2>Maś información</h2>\n<p>Más información sobre el juego y sus reglas.</p>\n<ol>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n</ol>","frontmatter":{"date":"December 17, 2016","title":"El video juego del año","description":"video juego del año","tags":["juego","biblia"]}}},"pageContext":{"id":"1ebe4693-04d7-5082-9a5c-0b19e6152556"}},
+    "staticQueryHashes": ["4080856488"]}

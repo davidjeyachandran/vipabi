@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-tags-index-js",
+    "path": "/tags/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Vipabi"}},"allMarkdownRemark":{"group":[{"fieldValue":"biblia","totalCount":2},{"fieldValue":"educativo","totalCount":1},{"fieldValue":"juego","totalCount":3},{"fieldValue":"nuevo","totalCount":1}]}},"pageContext":{}},
+    "staticQueryHashes": ["4080856488"]}

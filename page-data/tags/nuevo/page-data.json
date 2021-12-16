@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/nuevo/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Vipabi"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"},"frontmatter":{"title":"Nuevo y revolucionario juego"}}}]}},"pageContext":{"tag":"nuevo"}},
+    "staticQueryHashes": ["4080856488"]}
