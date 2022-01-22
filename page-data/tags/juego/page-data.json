@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tags-js",
     "path": "/tags/juego/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Vipabi"}},"allMarkdownRemark":{"totalCount":3,"edges":[{"node":{"fields":{"slug":"/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"},"frontmatter":{"title":"El juego educativo"}}},{"node":{"fields":{"slug":"/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"},"frontmatter":{"title":"Nuevo y revolucionario juego"}}},{"node":{"fields":{"slug":"/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"},"frontmatter":{"title":"El video juego del año"}}}]}},"pageContext":{"tag":"juego"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"Vipabi"}},"allMarkdownRemark":{"totalCount":3,"edges":[{"node":{"fields":{"slug":"/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/"},"frontmatter":{"title":"Nuevo y revolucionario juego"}}},{"node":{"fields":{"slug":"/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/"},"frontmatter":{"title":"El juego educativo"}}},{"node":{"fields":{"slug":"/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/"},"frontmatter":{"title":"El video juego del año"}}}]}},"pageContext":{"tag":"juego"}},
     "staticQueryHashes": ["4080856488"]}
