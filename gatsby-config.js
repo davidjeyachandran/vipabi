@@ -4,7 +4,6 @@ module.exports = {
     description:
       "Por un Conocimiento Integral de la Biblia.",
   },
-  pathPrefix: "/vipabi",
   plugins: [
     "gatsby-plugin-react-helmet",
     {
